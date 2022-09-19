@@ -23,7 +23,8 @@
 
 # 💻 프로젝트
 
-## 1. [몽글](https://github.com/about-joo91/mongle_for_portfolio)
+## 1. 몽글
+### [개인포트폴리오](https://github.com/about-joo91/mongle_for_portfolio)
 > ### 익명의 사용자가 고민을 게재하면 기명의 사용자가 그 고민에 대해서 편지를 보내주는 서비스
 > 개발 기간 : 22. 07. 07. ~  22. 08. 16.  
 > 팀원 : 4명  
@@ -38,8 +39,9 @@
 >>> Docker, AWS (EC2, RDS, S3, Load Balancer, cloudfront, route53), Github actions
 >> #### DL
 >>> torch
-> #### [프로젝트 백엔드 깃헙](https://github.com/about-joo91/mailbox_back)
-> #### [프로젝트 프론트엔드 깃헙](https://github.com/about-joo91/mailbox_front_dev)
+> ### 프로젝트 리포
+> #### [프로젝트 백엔드 리포](https://github.com/about-joo91/mailbox_back)
+> #### [프로젝트 프론트엔드 리포](https://github.com/about-joo91/mailbox_front_dev)
 
 ## 2. Friends
 > ### 좋아하는 캐릭터의 이미지를 자신의 영상에 입혀볼 수 있는 서비스
